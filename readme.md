@@ -1,1 +1,1 @@
-# Banhammer - powered by [bot.ts](https://github.com/CamilleAbella/bot.ts)
+# Moderator - powered by [bot.ts](https://github.com/CamilleAbella/bot.ts)
